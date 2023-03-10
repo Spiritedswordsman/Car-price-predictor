@@ -1,4 +1,4 @@
-#Car Price Predictor
+# Car Price Predictor
 A car price predictor is a tool that uses data analysis and machine learning to estimate the market value of a car based on its name, company, model, year, kilometers driven and other relevant factors.
 
 ### Models used
